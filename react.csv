@@ -1,0 +1,63 @@
+Topic,Subtopics
+1. Basics of React,What is React
+,Setting up the environment
+,JSX
+,Components (Function & Class)
+2. React Components,Props and State
+,Lifecycle Methods
+,Event Handling
+,Conditional Rendering
+3. Advanced React,Refs and the DOM
+,Fragments
+,Portals
+,Error Boundaries
+,Context API
+4. State Management,useState
+,useReducer
+,Context API (Advanced)
+,"Third-party State Management (Redux, MobX)"
+5. Hooks,useEffect
+,useContext
+,useRef
+,Custom Hooks
+6. Forms in React,Controlled Components
+,Uncontrolled Components
+,Form Validation
+7. Routing,React Router Basics
+,Nested Routes
+,Redirects and Navigation
+,Route Parameters
+8. Performance Optimization,Code Splitting
+,React.memo
+,useMemo
+,useCallback
+9. Styling,CSS Modules
+,Styled-components
+,CSS-in-JS
+,Responsive Design
+10. Testing,Unit Testing with Jest
+,Testing Components with React Testing Library
+,End-to-End Testing with Cypress
+11. Build and Deployment,Create React App
+,Webpack
+,Babel
+,"Deployment Strategies (Netlify, Vercel, etc.)"
+12. TypeScript with React,TypeScript Basics
+,Typing Props and State
+,Type Inference
+,Advanced Types
+13. Server-Side Rendering (SSR),Next.js Basics
+,Static Generation
+,Dynamic Routing
+,API Routes
+14. Progressive Web Apps (PWA),Service Workers
+,Caching Strategies
+,Manifest File
+,Offline Functionality
+15. GraphQL,Basics of GraphQL
+,Apollo Client
+,Queries and Mutations
+,Subscriptions
+16. Contextual Understanding,React's Ecosystem
+,"Comparison with Other Frameworks (Angular, Vue)"
+,Future of React
